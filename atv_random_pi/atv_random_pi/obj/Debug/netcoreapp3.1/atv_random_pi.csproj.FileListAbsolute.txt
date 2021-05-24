@@ -1,0 +1,12 @@
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.exe
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.deps.json
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.runtimeconfig.json
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.runtimeconfig.dev.json
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.dll
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\bin\Debug\netcoreapp3.1\atv_random_pi.pdb
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.AssemblyInfoInputs.cache
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.AssemblyInfo.cs
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.csproj.CoreCompileInputs.cache
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.dll
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.pdb
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.genruntimeconfig.cache
