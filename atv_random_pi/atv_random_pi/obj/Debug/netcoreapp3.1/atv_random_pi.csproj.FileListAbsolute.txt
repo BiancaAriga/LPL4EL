@@ -10,3 +10,4 @@ D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_rando
 D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.dll
 D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.pdb
 D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.genruntimeconfig.cache
+D:\IFSP\Linguagem4\atv_random_pi\atv_random_pi\obj\Debug\netcoreapp3.1\atv_random_pi.csprojAssemblyReference.cache
